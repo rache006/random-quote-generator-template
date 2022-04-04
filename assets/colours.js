@@ -8,5 +8,6 @@ const colours = [
   "ECC2D1",
   "CDBADB",
   "B6D1E5",
-  "BAEDF2"
+  "BAEDF2",
+  "cc0000",
 ]
