@@ -38,5 +38,9 @@ const quotes = [
   {
     "text": "Cats do care. For example they know instinctively what time we have to be at work in the morning and they wake us up twenty minutes before the alarm goes off.",
     "author": "Michael Nelson"
-  }
+  },
+    {
+    "text": "In ancient times cats were worshipped as gods; they have not forgotten this.",
+    "author": "Terry Pratchett"
+  },
 ]
